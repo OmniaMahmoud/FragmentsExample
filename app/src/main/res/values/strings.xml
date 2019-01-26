@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsExample</string>
+    <string name="first">First Fragment</string>
+    <string name="second">Second Fragment</string>
+    <string name="increase">Increase</string>
+    <string name="zero">0</string>
+</resources>
